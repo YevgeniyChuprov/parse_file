@@ -1,0 +1,8 @@
+{
+  "title": "example glossary",
+  "glossDiv": {
+    "title": "S",
+    "flag": true,
+    "array": [1, 2]
+  }
+}
